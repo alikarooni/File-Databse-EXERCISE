@@ -1,0 +1,13 @@
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\bin\Debug\EXERCISE.exe.config
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\bin\Debug\EXERCISE.exe
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\bin\Debug\EXERCISE.pdb
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\obj\Debug\EXERCISE.csprojAssemblyReference.cache
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\obj\Debug\EXERCISE.Form1.resources
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\obj\Debug\EXERCISE.Properties.Resources.resources
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\obj\Debug\EXERCISE.csproj.GenerateResource.cache
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\obj\Debug\EXERCISE.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\obj\Debug\EXERCISE.csproj.CopyComplete
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\obj\Debug\EXERCISE.exe
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\EXERCISE\obj\Debug\EXERCISE.pdb
